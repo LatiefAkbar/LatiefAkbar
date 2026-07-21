@@ -7,3 +7,5 @@ class Developer {
     let currentTech = ["PHP", "Android Studio", "Tailwind CSS", "MySQL"]
     let themePreference = "Dark Mode & Minimal Aesthetics"
 }
+
+![PHP](https://img.shields.io/badge/Teks-WarnaHEX?style=for-the-badge&logo=NamaLogo&logoColor=white)
