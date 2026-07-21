@@ -3,7 +3,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LatiefMaulana)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/latiif_am)
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="400" alt="Coding GIF">
 </div>
