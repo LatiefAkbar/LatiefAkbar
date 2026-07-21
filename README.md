@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LatiefMaulana)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/latiif_am)
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmg2M/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vcenter=true&width=500&lines=Hi+There!+%F0%9F%90%A7;Informatics+Engineering+Student;Web+%26+Mobile+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
 </div>
 
 ```swift
